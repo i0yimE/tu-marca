@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /creditos.html
 
-Sitemap: https://www.tumarca.com/sitemap.xml
+Sitemap: https://www.tramaropa.com.ar/sitemap.xml
