@@ -1,0 +1,171 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Contacto — Tu Marca</title>
+  <meta name="description" content="Escribinos por WhatsApp o completá el formulario. Teléfono, dirección, horario de atención y redes de Tu Marca.">
+  <link rel="canonical" href="contacto.html">
+
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Contacto — Tu Marca">
+  <meta property="og:description" content="Escribinos por WhatsApp o completá el formulario de contacto.">
+  <meta property="og:image" content="assets/img/hero.jpg">
+
+  <link rel="icon" type="image/svg+xml" href="assets/img/favicon.svg">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500;1,600&family=Inter:wght@300;400;500;600;700&display=swap">
+  <link rel="stylesheet" href="styles.css?v=20260706">
+</head>
+<body>
+  <a class="skip-link" href="#main">Saltar al contenido</a>
+  <div class="cursor" data-cursor-root aria-hidden="true">
+    <span class="cursor-dot"></span>
+    <span class="cursor-ring"></span>
+  </div>
+
+  <header class="nav">
+    <div class="container nav-inner">
+      <a class="nav-logo" href="index.html">Tu Marca</a>
+      <nav class="nav-links" aria-label="Principal">
+        <a class="nav-link" href="index.html">Inicio</a>
+        <a class="nav-link" href="catalogo.html">Catálogo</a>
+        <a class="nav-link" href="nosotros.html">Nosotros</a>
+        <a class="nav-link" href="servicios.html">Servicios</a>
+        <a class="nav-link is-active" href="contacto.html">Contacto</a>
+      </nav>
+      <a class="btn btn-primary btn-sm nav-cta" href="contacto.html">Contactanos</a>
+      <button class="nav-burger" data-nav-burger aria-expanded="false" aria-label="Abrir menú">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </header>
+
+  <div class="nav-mobile" data-nav-mobile data-open="false">
+    <nav class="nav-mobile-list" aria-label="Menú móvil">
+      <a href="index.html">Inicio</a>
+      <a href="catalogo.html">Catálogo</a>
+      <a href="nosotros.html">Nosotros</a>
+      <a href="servicios.html">Servicios</a>
+      <a href="contacto.html">Contacto</a>
+    </nav>
+    <p class="nav-mobile-foot">Tu Marca Indumentaria</p>
+  </div>
+
+  <main id="main">
+    <section class="page-header container">
+      <p class="kicker">Contacto</p>
+      <h1>Hablemos</h1>
+      <p>Contanos qué estás buscando y te respondemos a la brevedad. También podés escribirnos directo por WhatsApp.</p>
+    </section>
+
+    <section class="section" style="padding-top:1rem;">
+      <div class="container contact-quick" style="align-items:flex-start;">
+        <div data-reveal>
+          <div class="contact-quick-list" style="margin-top:0;">
+            <a href="#" data-bind-href="whatsappLink" target="_blank" rel="noopener">
+              <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2a10 10 0 00-8.6 15L2 22l5.2-1.4A10 10 0 1012 2zm0 2a8 8 0 016.9 12.1l-.3.5.6 2.2-2.3-.6-.5.3A8 8 0 1112 4zm-3.4 4.4c-.2 0-.5.1-.7.4-.2.2-.9.9-.9 2.1 0 1.2.9 2.4 1 2.6.1.1 1.8 2.8 4.4 3.8 2.2.9 2.6.7 3.1.6.5-.1 1.6-.6 1.8-1.3.2-.6.2-1.2.2-1.3-.1-.1-.3-.2-.5-.3-.2-.1-1.6-.8-1.8-.9-.2-.1-.4-.1-.6.1-.2.3-.7.9-.8 1-.1.2-.3.2-.5.1-.2-.1-1.1-.4-2-1.2-.7-.7-1.2-1.4-1.4-1.7-.1-.2 0-.4.1-.5l.4-.5c.1-.2.2-.3.3-.5.1-.2 0-.4 0-.5-.1-.1-.6-1.5-.9-2-.2-.5-.4-.4-.6-.4z"/></svg>
+              <span data-bind="phoneDisplay">[Tu teléfono / WhatsApp]</span>
+            </a>
+            <a href="#" data-bind-href="mailtoLink">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="M3 7l9 6 9-6"/></svg>
+              <span data-bind="email">[tu-email@tumarca.com]</span>
+            </a>
+            <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><path d="M12 21s-7-6-7-11a7 7 0 0114 0c0 5-7 11-7 11z"/><circle cx="12" cy="10" r="2.4"/></svg><span data-bind="address">[Tu dirección — ciudad, provincia]</span></span>
+            <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg><span data-bind="hours">[Tu horario de atención]</span></span>
+            <a href="#" data-bind-href="instagramUrl" target="_blank" rel="noopener">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r="1"/></svg>
+              <span data-bind="instagramHandle">@tu_usuario</span>
+            </a>
+          </div>
+
+          <div class="map-wrap" style="margin-top:2.2rem;">
+            <iframe data-map-embed src="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" title="Ubicación de Tu Marca"></iframe>
+          </div>
+        </div>
+
+        <form class="contact-quick-form" data-contact-form novalidate data-reveal>
+          <div class="field">
+            <label for="c-nombre">Nombre</label>
+            <input id="c-nombre" name="nombre" type="text" required autocomplete="name">
+          </div>
+          <div class="field">
+            <label for="c-empresa">Empresa (opcional)</label>
+            <input id="c-empresa" name="empresa" type="text" autocomplete="organization">
+          </div>
+          <div class="field">
+            <label for="c-telefono">Teléfono</label>
+            <input id="c-telefono" name="telefono" type="tel" autocomplete="tel">
+          </div>
+          <div class="field">
+            <label for="c-email">Email</label>
+            <input id="c-email" name="email" type="email" autocomplete="email">
+          </div>
+          <div class="field">
+            <label for="c-producto">Producto de interés</label>
+            <input id="c-producto" name="producto" type="text" placeholder="Ej: Buzo canguro, talle M">
+          </div>
+          <div class="field">
+            <label for="c-mensaje">Mensaje</label>
+            <textarea id="c-mensaje" name="mensaje" required></textarea>
+          </div>
+          <button class="btn btn-accent btn-block" type="submit">Enviar por WhatsApp</button>
+          <p class="form-note">Al enviar, se abre WhatsApp con tu mensaje ya redactado para que solo tengas que confirmarlo.</p>
+          <div class="form-success" data-form-success></div>
+        </form>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-grid">
+        <div class="footer-col">
+          <div class="footer-logo">Tu Marca</div>
+          <p style="color:rgba(244,239,230,.7); max-width: 30ch;" data-bind="tagline">Prendas con oficio, hechas para durar.</p>
+        </div>
+        <div class="footer-col">
+          <h4>Navegación</h4>
+          <ul>
+            <li><a href="index.html">Inicio</a></li>
+            <li><a href="catalogo.html">Catálogo</a></li>
+            <li><a href="nosotros.html">Nosotros</a></li>
+            <li><a href="servicios.html">Servicios</a></li>
+            <li><a href="contacto.html">Contacto</a></li>
+          </ul>
+        </div>
+        <div class="footer-col">
+          <h4>Contacto</h4>
+          <ul>
+            <li><span data-bind="phoneDisplay">[Tu teléfono / WhatsApp]</span></li>
+            <li><span data-bind="email">[tu-email@tumarca.com]</span></li>
+            <li><span data-bind="address">[Tu dirección]</span></li>
+          </ul>
+        </div>
+        <div class="footer-col">
+          <h4>Redes</h4>
+          <ul>
+            <li><a href="#" data-bind-href="instagramUrl" data-bind="instagramHandle" target="_blank" rel="noopener">@tu_usuario</a></li>
+            <li><a href="creditos.html">Créditos fotográficos →</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <span>© <span data-year></span> Tu Marca. Todos los derechos reservados.</span>
+        <span>Imágenes bajo Creative Commons vía <a href="https://openverse.org" target="_blank" rel="noopener">Openverse</a>.</span>
+      </div>
+    </div>
+  </footer>
+
+  <a class="wa-float" data-wa-float target="_blank" rel="noopener" aria-label="Escribinos por WhatsApp" href="#">
+    <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2a10 10 0 00-8.6 15L2 22l5.2-1.4A10 10 0 1012 2zm0 2a8 8 0 016.9 12.1l-.3.5.6 2.2-2.3-.6-.5.3A8 8 0 1112 4zm-3.4 4.4c-.2 0-.5.1-.7.4-.2.2-.9.9-.9 2.1 0 1.2.9 2.4 1 2.6.1.1 1.8 2.8 4.4 3.8 2.2.9 2.6.7 3.1.6.5-.1 1.6-.6 1.8-1.3.2-.6.2-1.2.2-1.3-.1-.1-.3-.2-.5-.3-.2-.1-1.6-.8-1.8-.9-.2-.1-.4-.1-.6.1-.2.3-.7.9-.8 1-.1.2-.3.2-.5.1-.2-.1-1.1-.4-2-1.2-.7-.7-1.2-1.4-1.4-1.7-.1-.2 0-.4.1-.5l.4-.5c.1-.2.2-.3.3-.5.1-.2 0-.4 0-.5-.1-.1-.6-1.5-.9-2-.2-.5-.4-.4-.6-.4z"/></svg>
+  </a>
+
+  <script defer src="lib/gsap.min.js?v=20260706"></script>
+  <script defer src="lib/ScrollTrigger.min.js?v=20260706"></script>
+  <script defer src="lib/manifest.js?v=20260706"></script>
+  <script defer src="main.js?v=20260706"></script>
+</body>
+</html>

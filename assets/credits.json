@@ -1,0 +1,222 @@
+{
+  "hero": {
+    "src": "assets/img/hero.jpg",
+    "title": "Jeans pants / clothing racks",
+    "creator": "Rawpixel",
+    "creator_url": "https://www.rawpixel.com",
+    "license": "cc0",
+    "license_version": "1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "foreign_landing_url": "https://www.rawpixel.com/image/6042149/jeans-pants-free-public-domain-cc0-photo",
+    "source": "rawpixel"
+  },
+  "about-hero": {
+    "src": "assets/img/about-hero.jpg",
+    "title": "Makina girgir 1",
+    "creator": "Bikoadem",
+    "creator_url": "https://commons.wikimedia.org/w/index.php?title=User:Bikoadem&action=edit&redlink=1",
+    "license": "by-sa",
+    "license_version": "4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=127048013",
+    "source": "wikimedia"
+  },
+  "about-process-1": {
+    "src": "assets/img/about-process-1.jpg",
+    "title": "Tailoring Tools",
+    "creator": "amtec_photos",
+    "creator_url": "https://www.flickr.com/photos/141761303@N08",
+    "license": "by-sa",
+    "license_version": "2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "foreign_landing_url": "https://www.flickr.com/photos/141761303@N08/36756249676",
+    "source": "flickr"
+  },
+  "about-process-2": {
+    "src": "assets/img/about-process-2.jpg",
+    "title": "Sewing Machine",
+    "creator": "Hey Paul Studios",
+    "creator_url": "https://www.flickr.com/photos/45257015@N03",
+    "license": "by",
+    "license_version": "2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "foreign_landing_url": "https://www.flickr.com/photos/45257015@N03/8478437625",
+    "source": "flickr"
+  },
+  "about-process-3": {
+    "src": "assets/img/about-process-3.jpg",
+    "title": "White striped shirt on stack",
+    "creator": "2Tales",
+    "creator_url": "https://www.flickr.com/photos/30013969@N03",
+    "license": "by-sa",
+    "license_version": "2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "foreign_landing_url": "https://www.flickr.com/photos/30013969@N03/4261955819",
+    "source": "flickr"
+  },
+  "texture-cotton": {
+    "src": "assets/img/texture-cotton.jpg",
+    "title": "Fabric texture",
+    "creator": "stolte-sawa",
+    "creator_url": "https://www.flickr.com/photos/8420299@N07",
+    "license": "by",
+    "license_version": "2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "foreign_landing_url": "https://www.flickr.com/photos/8420299@N07/4743127314",
+    "source": "flickr"
+  },
+  "texture-denim": {
+    "src": "assets/img/texture-denim.jpg",
+    "title": "Jean cloth, texture",
+    "creator": "RichTatum",
+    "creator_url": "https://www.flickr.com/photos/80853842@N00",
+    "license": "by",
+    "license_version": "2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "foreign_landing_url": "https://www.flickr.com/photos/80853842@N00/660166683",
+    "source": "flickr"
+  },
+  "texture-knit": {
+    "src": "assets/img/texture-knit.jpg",
+    "title": "Cashmere Cable Knit",
+    "creator": "stolte-sawa",
+    "creator_url": "https://www.flickr.com/photos/8420299@N07",
+    "license": "by",
+    "license_version": "2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "foreign_landing_url": "https://www.flickr.com/photos/8420299@N07/4743135028",
+    "source": "flickr"
+  },
+  "texture-linen": {
+    "src": "assets/img/texture-linen.jpg",
+    "title": "texture.tatertote (natural woven fabric)",
+    "creator": "martisimas",
+    "creator_url": "https://www.flickr.com/photos/44561801@N04",
+    "license": "by",
+    "license_version": "2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "foreign_landing_url": "https://www.flickr.com/photos/44561801@N04/6126734902",
+    "source": "flickr"
+  },
+  "texture-stitch": {
+    "src": "assets/img/texture-stitch.jpg",
+    "title": "Blue Satin Fabric Edge",
+    "creator": "shaire productions",
+    "creator_url": "https://www.flickr.com/photos/9822107@N08",
+    "license": "by",
+    "license_version": "2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "foreign_landing_url": "https://www.flickr.com/photos/9822107@N08/4945245799",
+    "source": "flickr"
+  },
+  "texture-thread": {
+    "src": "assets/img/texture-thread.jpg",
+    "title": "Spool of dark red sewing thread",
+    "creator": "W.carter",
+    "creator_url": "https://commons.wikimedia.org/wiki/User:W.carter",
+    "license": "by-sa",
+    "license_version": "4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=145541269",
+    "source": "wikimedia"
+  },
+  "product-tshirt": {
+    "src": "assets/img/product-tshirt.jpg",
+    "title": "V-fold shibori t-shirt, red/white",
+    "creator": "deb roby",
+    "creator_url": "https://www.flickr.com/photos/45802332@N00",
+    "license": "by",
+    "license_version": "2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "foreign_landing_url": "https://www.flickr.com/photos/45802332@N00/2860454725",
+    "source": "flickr"
+  },
+  "product-jeans": {
+    "src": "assets/img/product-jeans.jpg",
+    "title": "Pairs folded jeans",
+    "creator": "Rawpixel",
+    "creator_url": "https://www.rawpixel.com",
+    "license": "cc0",
+    "license_version": "1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "foreign_landing_url": "https://www.rawpixel.com/image/3283254/free-photo-image-clothes-shop-window-shopping-plants",
+    "source": "rawpixel"
+  },
+  "product-sweater": {
+    "src": "assets/img/product-sweater.jpg",
+    "title": "Cashmere Sweaters",
+    "creator": "colros",
+    "creator_url": "https://www.flickr.com/photos/73416633@N00",
+    "license": "by",
+    "license_version": "2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "foreign_landing_url": "https://www.flickr.com/photos/73416633@N00/410931250",
+    "source": "flickr"
+  },
+  "product-beanie": {
+    "src": "assets/img/product-beanie.jpg",
+    "title": "Ribbed brim hat",
+    "creator": "Ruth and Dave",
+    "creator_url": "https://www.flickr.com/photos/95142644@N00",
+    "license": "by",
+    "license_version": "2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "foreign_landing_url": "https://www.flickr.com/photos/95142644@N00/44843049045",
+    "source": "flickr"
+  },
+  "product-scarf": {
+    "src": "assets/img/product-scarf.jpg",
+    "title": "Plain checkered scarf",
+    "creator": "storebukkebruse",
+    "creator_url": "https://www.flickr.com/photos/8536261@N07",
+    "license": "by",
+    "license_version": "2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "foreign_landing_url": "https://www.flickr.com/photos/8536261@N07/3734665822",
+    "source": "flickr"
+  },
+  "product-shirt": {
+    "src": "assets/img/product-shirt.jpg",
+    "title": "Rails Carmen Long Sleeve Button Down",
+    "creator": "jnissa",
+    "creator_url": "https://www.flickr.com/photos/86507374@N00",
+    "license": "by",
+    "license_version": "2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "foreign_landing_url": "https://www.flickr.com/photos/86507374@N00/17205548083",
+    "source": "flickr"
+  },
+  "product-hoodie": {
+    "src": "assets/img/product-hoodie.jpg",
+    "title": "Amazon Essentials Girl's Pullover Hoodie Sweatshirt",
+    "creator": "Shopping Guide 7",
+    "creator_url": "https://www.flickr.com/photos/185449710@N03",
+    "license": "cc0",
+    "license_version": "1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "foreign_landing_url": "https://www.flickr.com/photos/185449710@N03/49067949356",
+    "source": "flickr"
+  },
+  "product-pants": {
+    "src": "assets/img/product-pants.jpg",
+    "title": "Denim and suede suit jacket and bellbottoms worn by Charley Pride",
+    "creator": "Ortiz's Art Clothing and Ace Tailors",
+    "creator_url": "https://nmaahc.si.edu/object/nmaahc_2012.125.50ab",
+    "license": "cc0",
+    "license_version": "1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "foreign_landing_url": "https://nmaahc.si.edu/object/nmaahc_2012.125.50ab",
+    "source": "smithsonian"
+  },
+  "servicios-hero": {
+    "src": "assets/img/servicios-hero.jpg",
+    "title": "Old Men's Clothing Store",
+    "creator": "@boetter",
+    "creator_url": "https://www.flickr.com/photos/47854931@N00",
+    "license": "by",
+    "license_version": "2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "foreign_landing_url": "https://www.flickr.com/photos/47854931@N00/27121850",
+    "source": "flickr"
+  }
+}

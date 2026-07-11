@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /creditos.html
+
+Sitemap: https://www.tumarca.com/sitemap.xml

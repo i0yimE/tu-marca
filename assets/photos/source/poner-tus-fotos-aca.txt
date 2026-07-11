@@ -1,0 +1,6 @@
+Esta carpeta es para guardar tus fotos originales (las que saques con el celu o la cámara),
+antes de copiarlas ya recortadas a assets/img/.
+
+Ver el punto 4 del README.md en la raíz del proyecto para el paso a paso.
+
+Podés borrar este archivo de texto cuando subas tus fotos.
